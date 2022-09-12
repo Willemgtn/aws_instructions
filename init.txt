@@ -1,0 +1,1 @@
+This is just a simple text that was uploaded to aws codecommit through git cli
