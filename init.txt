@@ -1,1 +1,3 @@
 This is just a simple text that was uploaded to aws codecommit through git cli
+
+aws and git should be in different branches to be able to push both 
